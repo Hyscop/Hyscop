@@ -60,8 +60,8 @@ I'm a passionate **Junior Developer** currently studying **Computer Engineering*
 
 ## ⚡ Fun Fact
 
-When I'm not coding, I enjoy exploring new technologies, reading tech blogs, and playing video games to unwind.
-I love cats.
+- When I'm not coding, I enjoy exploring new technologies, reading tech blogs, and playing video games to unwind.
+- I love cats.
 
 ---
 
