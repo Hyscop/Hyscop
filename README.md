@@ -45,8 +45,8 @@ I'm a passionate **Junior Developer** currently studying **Computer Engineering*
 
 ## 📊 GitHub Stats
 
-![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyscop&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyscop&layout=compact&theme=radical)
 
 ---
 
@@ -61,6 +61,7 @@ I'm a passionate **Junior Developer** currently studying **Computer Engineering*
 ## ⚡ Fun Fact
 
 When I'm not coding, I enjoy exploring new technologies, reading tech blogs, and playing video games to unwind.
+I love cats.
 
 ---
 
