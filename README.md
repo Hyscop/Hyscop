@@ -6,13 +6,6 @@ I'm a passionate **Junior Developer** currently studying **Computer Engineering*
 
 ---
 
-## 🔭 What I'm Working On
-
-- **Building a RESTful API:** Working on a web API using **.NET Core** to provide robust backend services for a [LibraryApp](https://github.com/Hyscop/LibraryApp).
-- **Exploring Microservices:** Learning to design and implement microservices architecture using **Spring Boot** and **Docker**.
-
----
-
 ## 🌱 What I'm Learning
 
 - **Cloud Integration**: Deploying applications to cloud platforms like **AWS** and **Azure**.
