@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hyscop&color=blue)
 
-I'm a passionate **Junior Developer** currently studying **Computer Engineering** at Eskişehir Technical University. I have a strong foundation in backend development, with experience in building robust web applications using **Java**, **Spring Boot**, and **.NET Core**. I also enjoy working on frontend technologies like **React.js**, **Bootstrap**.
+I'm a passionate **Junior Developer** graduated from **Computer Engineering** at Eskişehir Technical University. I have a strong foundation in backend development, with experience in building robust web applications using **Java**, **Spring Boot**, and **.NET Core**. I also enjoy working on frontend technologies like **React.js**, **Bootstrap**.
 
 ---
 
